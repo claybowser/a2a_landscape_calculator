@@ -1,0 +1,25 @@
+Author : Clay Bowser
+Date Last Modified : 2020/09/23
+Title : Assignment #2 part A : Landscape Calculator
+
+prompt user input
+validate user input
+base charge of $1000
+if surface (length * width) is > 5000 square feet, add $500.
+cost is calculated by square foot
+types of grass
+	fescue 0.05 cents per sqfoot
+	bentgrass 0.02 cents per sqfoot
+	campus 0.01 cents per sqfoot
+each tree is $100
+display output
+
+Please navigate to flow_chart.jpg for flow chart.
+
+testing parameters
+Enter House Number: 439
+Enter property depth (feet): 100
+Enter property width (feet): 50
+Enter type of grass (fescuse, bentgrass, campus): fescue
+Enter the number of trees: 2
+Total cost for house 439 is: $1450.00
